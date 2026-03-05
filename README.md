@@ -1,5 +1,4 @@
 # MeetMind — Complete Walkthrough Guide
-## "Professor's Notes" Edition
 
 ---
 
