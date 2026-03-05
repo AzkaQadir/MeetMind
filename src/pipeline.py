@@ -1,7 +1,7 @@
 """
 STEP 5: MEETMIND PIPELINE ORCHESTRATOR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Professor's Note:
+
   This is the "glue" module. It ties all our components together
   into a single coherent pipeline.
 
