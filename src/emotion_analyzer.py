@@ -1,7 +1,6 @@
 """
 STEP 2: EMOTION & SENTIMENT ANALYSIS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Professor's Note:
   We use a pre-trained RoBERTa model fine-tuned on emotion detection.
   This is a classic text classification task.
 
