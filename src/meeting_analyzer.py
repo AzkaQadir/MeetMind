@@ -1,7 +1,6 @@
 """
 STEP 3: LLM MEETING ANALYZER
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Professor's Note:
   This module uses an LLM (GPT-4o or local models via Ollama) to extract
   high-level meaning from the transcript. 
 
@@ -323,7 +322,7 @@ Return ONLY the JSON object. No markdown, no explanation."""
         Answer a question about the meeting using provided context chunks.
         This is called by the RAG pipeline after retrieval.
         
-        Professor's Note:
+        
           This is the "generation" step of RAG.
           The retrieved chunks are injected as context, and the LLM
           is instructed to ONLY answer from that context — not from
