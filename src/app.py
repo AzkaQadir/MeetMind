@@ -1,7 +1,7 @@
 """
 STEP 6: GRADIO UI
 ━━━━━━━━━━━━━━━━━
-Professor's Note:
+Why Gradio UI:
   Gradio turns Python functions into interactive web interfaces.
   It's the fastest way to demo ML models — no frontend skills needed.
 
