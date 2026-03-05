@@ -1,7 +1,6 @@
 """
 STEP 4: RAG CHATBOT ENGINE
 ━━━━━━━━━━━━━━━━━━━━━━━━━
-Professor's Note:
   RAG = Retrieval Augmented Generation.
   The core insight: LLMs have limited context windows.
   You can't dump a 2-hour transcript (50k words) into GPT-4.
