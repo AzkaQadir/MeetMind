@@ -279,3 +279,12 @@ When presenting this project:
 | LLM returns invalid JSON | Model inconsistency | The parser handles this — retry if persistent |
 | ChromaDB error | Corrupt DB | Delete `data/chromadb/` folder and re-index |
 | GPU OOM | Model too large | Use `WHISPER_MODEL=tiny` or add batch_size limits |
+
+## ⚠️ Disclaimer
+
+This project was built as a **learning exercise** to explore AI/ML concepts including 
+RAG pipelines, speech recognition, emotion analysis, and LLM integration. 
+It is not production-ready and may contain bugs or incomplete features. 
+Contributions, suggestions, and feedback are welcome!
+
+Built with curiosity and lots of debugging. 🛠️
