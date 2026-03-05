@@ -1,6 +1,5 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # MeetMind Dockerfile
-# Professor's Note:
 #   Multi-stage build keeps the final image lean.
 #   Stage 1: Install all dependencies (heavy)
 #   Stage 2: Copy only what we need to run (light)
