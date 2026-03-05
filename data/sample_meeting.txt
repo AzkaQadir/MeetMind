@@ -1,0 +1,53 @@
+[00:00] SARAH: Good morning everyone. Let's get started on the Q3 planning meeting. We have about 45 minutes.
+
+[00:12] JOHN: Thanks Sarah. Before we dive in, I just want to flag that I'm a bit worried about our timeline for the product launch. We have three weeks left and the engineering team is still working through some blockers.
+
+[00:28] SARAH: That's a good point John. Can you elaborate on what the blockers are?
+
+[00:35] JOHN: Sure. The main issue is the authentication service. It's not handling edge cases well under load. We've been testing and seeing about 2% failure rate at peak traffic, which is unacceptable for launch.
+
+[00:52] PRIYA: I can speak to that. My team identified the root cause yesterday — it's a race condition in the token refresh logic. We have a fix ready but it needs two days of testing before we can merge.
+
+[01:08] SARAH: Okay, so two days for the fix. That gives us some room. Priya, can you make sure the fix is prioritized and tested by Wednesday?
+
+[01:18] PRIYA: Absolutely, I'll own that.
+
+[01:22] JOHN: There's also the marketing site. The landing page copy hasn't been approved yet by legal and we need that done before we can go live.
+
+[01:35] SARAH: Right. Marcus, can you follow up with the legal team today and push for a response by tomorrow EOD?
+
+[01:45] MARCUS: Will do. I'll escalate if needed — they've been slow this week.
+
+[01:52] SARAH: Good. Now let's talk budget. We have $50k allocated for the launch marketing campaign. John, what's your recommendation for allocation?
+
+[02:05] JOHN: I think we should go heavy on LinkedIn and email — about 70% there. The other 30% on targeted Google Ads. We've seen the best ROI from professional networks for this type of product.
+
+[02:20] MARCUS: I agree on LinkedIn. I'd push back slightly on Google Ads though. Our last campaign had pretty disappointing conversion rates there.
+
+[02:32] JOHN: Fair point. Maybe we shift some of that to content marketing instead?
+
+[02:38] SARAH: Let's revisit the exact allocation offline. John and Marcus, can you two sync tomorrow and bring a recommendation to the team by Thursday?
+
+[02:50] JOHN: Sounds good.
+
+[02:52] MARCUS: Works for me.
+
+[02:55] SARAH: Great. One more thing — the customer success team has asked if we can do a soft launch with 10 beta customers first before going fully public. What does everyone think?
+
+[03:10] PRIYA: I think that's a great idea. It gives us a safety net if we find issues post-launch. We can monitor closely and fix anything before it hits thousands of users.
+
+[03:22] JOHN: I'm for it, but we need to pick the right customers. We want people who are technically savvy but also patient with potential bugs.
+
+[03:32] SARAH: Agreed. Priya, can you work with customer success to identify 10 good beta candidates by end of week?
+
+[03:42] PRIYA: Yes, I'll set up a meeting with them Friday morning.
+
+[03:48] SARAH: Perfect. Let me summarize where we are. Priya is fixing the auth bug by Wednesday. Marcus is getting legal approval by tomorrow. John and Marcus are syncing on budget allocation, recommendation by Thursday. And Priya is coordinating beta customer selection by Friday. Does that capture everything?
+
+[04:10] JOHN: Yes, that's all correct.
+
+[04:13] PRIYA: Confirmed.
+
+[04:15] MARCUS: Sounds good to me.
+
+[04:18] SARAH: Great meeting everyone. We're in good shape for the launch. Let's reconvene next Monday for a final go/no-go decision. Thanks all.
