@@ -1,7 +1,7 @@
 """
 STEP 1: TRANSCRIPTION ENGINE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Professor's Note:
+
   Whisper is OpenAI's speech-to-text model. It outputs raw text, but we 
   need speaker labels too. For that we use pyannote.audio for "diarization"
   — the process of answering "who spoke when?" Then we merge the two outputs.
